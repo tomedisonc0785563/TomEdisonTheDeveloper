@@ -1,0 +1,1 @@
+I'm excited to share my latest project on LinkedIn! I implemented data extraction in AWS Cloud using AWS Textract and Python in AWS Cloud9 IDE. The project involved extracting data from a file stored in an AWS S3 bucket using text extraction in Python and then storing it in a DynamoDB table. 
