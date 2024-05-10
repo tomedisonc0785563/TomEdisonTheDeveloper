@@ -2,6 +2,6 @@ In this project based on a real-world scenario, I acted as Cloud Specialist with
 
    There were 100 users that needed to be migrated and have MFA (Multi-factor authentication) enabled on their accounts, as this is a security best practice.
 
-   To avoid repetitive and manual tasks in the AWS console, I needed to think about automating the processes. Used scripting to deploy multiple users using the information in a csv file.
+   To avoid repetitive and manual tasks in the AWS console, I needed to think about automating the processes. Used scripting to deploy multiple users with corresponding user groups and policies using the information in a csv file.
 
   Also enforced MFA policy for all users for every user to change password when sign in for first time and enabled virtual MFA to test.
